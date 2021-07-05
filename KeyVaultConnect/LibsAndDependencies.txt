@@ -1,0 +1,4 @@
+﻿Microsoft.Azure.Services.AppAuthentication
+Microsoft.Azure.KeyVault
+
+Microsoft.Extensions.Configuration.AzureAppConfiguration
